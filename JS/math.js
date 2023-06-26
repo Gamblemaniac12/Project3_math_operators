@@ -10,7 +10,7 @@ function subtraction_Function() {
 
 function multiplication() {
     var simple_Math = 6 * 8;
-    document.getElementById("multiplication").innerHTML = "6 * 8 = " + simple_Math
+    document.getElementById("multiplication").innerHTML = " 6 * 8 = " + simple_Math
 }
 
 function division() {
